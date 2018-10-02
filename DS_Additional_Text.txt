@@ -1,9 +1,9 @@
-Additional text for Dessert
+AAdditional text for Dessert
 
 Description:
 This will become your new favorit dessert.
 
-Servings: 6
+Servings: 
 
 Preparation Time:
 Prep: 30 m
